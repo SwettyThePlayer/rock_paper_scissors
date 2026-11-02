@@ -28,12 +28,12 @@ Spock beats Scissors and Rock.
 
 The project was developed incrementally through the following steps:
 
-Computer Choice: Implemented the computer's random choice.
-Player Choice: Added the player's ability to select an option.
-Winner Detection: Implemented the logic to determine the winner.
-Input Validation: Added checks to validate player input.
-Score and Rounds: Introduced score tracking and round counting.
-Lizard and Spock: Expanded the game with two additional choices.
+1. Computer Choice: Implemented the computer's random choice.
+2. Player Choice: Added the player's ability to select an option.
+3. Winner Detection: Implemented the logic to determine the winner.
+4. Input Validation: Added checks to validate player input.
+5. Score and Rounds: Introduced score tracking and round counting.
+6. Lizard and Spock: Expanded the game with two additional choices.
 ## Technologies Used
 Python
 ## How to Run
